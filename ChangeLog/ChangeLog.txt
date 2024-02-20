@@ -1,0 +1,9 @@
+1.1 (2024-2-20) New program.
+- New features added
+    - Function to remove the old program folder
+    - Function to remove the old installer folder
+    - Delete desktop shortcuts function
+    - Delete Start menu shortcuts function
+    - Downloading the WinArchive program installer
+    - Opening the WinArchive program installer
+    - Exit
